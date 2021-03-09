@@ -1,3 +1,5 @@
-## Guide
+# Infrastructure Documentation
 
-This guide covers the necessary bits. As the project evolves, it will only become more comprehensive
+#### Powered by [Cloudflare Pages](https://pages.cloudflare.com) and [Hugo](https://gohugo.io)
+
+_Currently in-development..._
