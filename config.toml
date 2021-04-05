@@ -39,7 +39,10 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
 
-  repo = "https://github.com/WhiteHatCP/docs"
+  repo = "https://github.com/CalPolySec/docs"
+
+  enableRobotsTXT = true
+  buildDrafts = true
 
   time_format_blog = "Monday, January 02, 2006"
   time_format_default = "January 2, 2006"
